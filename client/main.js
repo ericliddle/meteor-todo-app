@@ -1,7 +1,7 @@
 import { Template } from 'meteor/templating';
 import { ReactiveVar } from 'meteor/reactive-var';
 
-import App from './imports/ui/containers/App';
+import App from '../imports/ui/containers/App';
 
 import React from 'react';
 import { Meteor } from 'meteor/meteor';
